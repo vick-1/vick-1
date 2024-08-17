@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vick-1
-- 👀 I’m interested in ... Building a mobile APP
-- 🌱 I’m currently learning ...  how to be an expert in building mobile APP
-- 💞️ I’m looking to collaborate on ... Building mobile APP
-- 📫 How to reach me ... mobile APP builders using  React Native 
+- 👋 Hi, I’m Pa_Vick
+- 👀 I’m interested in ... Building my cyber security skill to Professional level from Scrach 
+- 🌱 I’m  have completed learning the basic for cyber security
+- 💞️ 
+- 📫 
 
 <!---
 vick-1/vick-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
